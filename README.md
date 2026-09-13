@@ -2,6 +2,8 @@
 
 A Random Forest–based network intrusion detection project using the CICIDS2017 benchmark dataset, with a focus on critically evaluating results rather than reporting raw accuracy at face value.
 
+Read Full Report here: CICIDS-2017.pdf
+
 ## Overview
 
 This project trains a Random Forest classifier to distinguish benign from malicious network traffic, first as a **binary task** (Normal vs. Attack) and then as a **multiclass task** across seven categories (Normal, DoS, DDoS, Port Scanning, Brute Force, Web Attacks, Bots). Rather than stopping at near-perfect aggregate metrics, the project investigates *why* the results look so strong and surfaces a real, class-specific weakness the aggregate numbers hide.
