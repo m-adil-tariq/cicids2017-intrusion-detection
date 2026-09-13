@@ -2,7 +2,7 @@
 
 A Random Forest–based network intrusion detection project using the CICIDS2017 benchmark dataset, with a focus on critically evaluating results rather than reporting raw accuracy at face value.
 
-Read Full Report here: CICIDS-2017.pdf
+Read Full Report here: [CICIDS-2017.pdf](./CICIDS-2017.pdf)
 
 ## Overview
 
