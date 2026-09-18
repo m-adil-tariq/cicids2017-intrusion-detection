@@ -42,7 +42,3 @@ This project trains a Random Forest classifier to distinguish benign from malici
 
 - Sharafaldin, I., Lashkari, A. H., & Ghorbani, A. A. (2018). *Toward Generating a New Intrusion Detection Dataset and Intrusion Traffic Characterization.* ICISSP.
 - Lanvin, M., Gimenez, P. F., Han, Y., Majorczyk, F., Mé, L., & Totel, É. (2023). *Errors in the CICIDS2017 Dataset and the Significant Differences in Detection Performances It Makes.* CRiSIS 2022.
-
-## Author
-
-Muhammad Adil (Independent research project)
